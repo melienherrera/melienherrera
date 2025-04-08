@@ -3,17 +3,10 @@
 ## Hello! 👋
 My name is Melissa Herrera. I am currently a Developer Relations Engineer at DataStax on the Langflow team 💻
 
-## How to Reach Me
+## How to Reach Me 📞
 - [Linkedin](https://www.linkedin.com/in/herrera-melissa/)
 - [Twitter](https://x.com/MelGoesTech)
 - or email me: melienherrera@gmail.com 💌
-
-## Writing ✏️
-Sometimes and picture/visual is not worth a thousand words and you have to write the story yourself...
-- [Building an AI Resume Assistant](https://www.datastax.com/blog/building-resumai-langflow-astra-db-openai)
-- [Building a Simple AI Agent](https://www.datastax.com/blog/build-simple-ai-agent-with-langflow-composio)
-- [Top 3 Mistakes I Made While Building AI Agents
-](https://www.datastax.com/blog/top-three-mistakes-building-agents)
 
 ## Video Content 📹
 Through my tenure at DataStax/Langflow, I was able to explore topics from OSS Apache Cassandra, cloud-native technologies, vector embeddings/RAG, and Generative AI concepts. This a display of me not only building in public, but _learning_ in public. 
@@ -22,6 +15,13 @@ Through my tenure at DataStax/Langflow, I was able to explore topics from OSS Ap
 - [How to Build a Resume Assistant (Livestream)](https://www.youtube.com/watch?v=SNgv-AQ9T_M&t=3139s)
 - [GenAI 101: Getting Started with a Vector Database](https://www.youtube.com/watch?v=9nNgeOf5KJk)
 - [Connect Temporal.io to Astra DB](https://www.youtube.com/watch?v=rdmJErBLxtE&t=46s)
+
+## Writing ✏️
+Sometimes a picture or visual is not worth a thousand words and you have to write the story yourself...
+- [Building an AI Resume Assistant](https://www.datastax.com/blog/building-resumai-langflow-astra-db-openai)
+- [Building a Simple AI Agent](https://www.datastax.com/blog/build-simple-ai-agent-with-langflow-composio)
+- [Top 3 Mistakes I Made While Building AI Agents
+](https://www.datastax.com/blog/top-three-mistakes-building-agents)
 
 
 <!--
