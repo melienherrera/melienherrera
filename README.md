@@ -1,7 +1,7 @@
 # Melissa Herrera (she/her)
 
 ## Hello! 👋
-My name is Melissa Herrera. I am currently a Developer Relations Engineer at DataStax on the Langflow team 💻
+My name is Melissa Herrera. I am currently a Developer Advocate at Temporal 💻
 
 ## How to Reach Me 📞
 - [Linkedin](https://www.linkedin.com/in/herrera-melissa/)
@@ -9,7 +9,7 @@ My name is Melissa Herrera. I am currently a Developer Relations Engineer at Dat
 - or email me: melienherrera@gmail.com 💌
 
 ## Video Content 📹
-Through my tenure at DataStax/Langflow, I was able to explore topics from OSS Apache Cassandra, cloud-native technologies, vector embeddings/RAG, and Generative AI concepts. This a display of me not only building in public, but _learning_ in public. 
+Through my previous tenure at DataStax/Langflow, I was able to explore topics from OSS Apache Cassandra, cloud-native technologies, vector embeddings/RAG, and Generative AI concepts. This a display of me not only building in public, but _learning_ in public. 
 - [Building a Multi-Agent Personal Assistant on Langflow](https://www.youtube.com/watch?v=RFC8NpP30A0&t=28s)
 - [Generative AI Fashion App: Fashion Buddy](https://www.youtube.com/watch?v=_uuHqGbmIkI)
 - [How to Build a Resume Assistant (Livestream)](https://www.youtube.com/watch?v=SNgv-AQ9T_M&t=3139s)
