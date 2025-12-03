@@ -1,7 +1,7 @@
 # Melissa Herrera (she/her)
 
 ## Hello! 👋
-My name is Melissa Herrera. I am currently a Developer Advocate at [Temporal](temporal.io) 💻
+My name is Melissa Herrera. I am currently a Developer Advocate at [[Temporal](https://temporal.io/)] 💻
 
 ## Video Content 📹
 Through my previous tenure at DataStax/Langflow, I was able to explore topics from OSS Apache Cassandra, cloud-native technologies, vector embeddings/RAG, and Generative AI concepts. This a display of me not only building in public, but _learning_ in public. 
