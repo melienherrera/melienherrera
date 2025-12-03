@@ -1,12 +1,7 @@
 # Melissa Herrera (she/her)
 
 ## Hello! 👋
-My name is Melissa Herrera. I am currently a Developer Advocate at Temporal 💻
-
-## How to Reach Me 📞
-- [Linkedin](https://www.linkedin.com/in/herrera-melissa/)
-- [Twitter](https://x.com/MelGoesTech)
-- or email me: melienherrera@gmail.com 💌
+My name is Melissa Herrera. I am currently a Developer Advocate at [Temporal](temporal.io) 💻
 
 ## Video Content 📹
 Through my previous tenure at DataStax/Langflow, I was able to explore topics from OSS Apache Cassandra, cloud-native technologies, vector embeddings/RAG, and Generative AI concepts. This a display of me not only building in public, but _learning_ in public. 
@@ -30,6 +25,11 @@ Sometimes a picture or visual is not worth a thousand words and you have to writ
 - [Top 3 Mistakes I Made While Building AI Agents
 ](https://www.datastax.com/blog/top-three-mistakes-building-agents)
 - [Building an AI-powered Fashion Recommendation App](https://blog.langflow.org/building-an-ai-powered-fashion-recommendation-app/)
+
+## How to Reach Me 📞
+- [Linkedin](https://www.linkedin.com/in/herrera-melissa/)
+- [Twitter](https://x.com/MelGoesTech)
+- or email me: melienherrera@gmail.com 💌
 
 <!--
 **melienherrera/melienherrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
